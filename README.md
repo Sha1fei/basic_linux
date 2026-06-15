@@ -11,4 +11,5 @@
 ### Работа с файлами и директориями
 
 - [ls](files_and_directories/ls.md) — просмотр содержимого каталогов
+- [touch](files_and_directories/touch.md) — создание файлов и обновление времени
 
