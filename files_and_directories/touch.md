@@ -98,33 +98,3 @@ touch -t 202406151030 file
 ls -l file
 stat file
 ```
-
-## Типичные ошибки
-
-Файл не создаётся — нет каталога по пути:
-
-```bash
-touch dir/newfile
-# touch: cannot touch 'dir/newfile': No such file or directory
-```
-
-Сначала нужно создать каталог:
-
-```bash
-mkdir -p dir
-touch dir/newfile
-```
-
-Нет прав на запись в каталог:
-
-```bash
-touch /root/file
-# touch: cannot touch '/root/file': Permission denied
-```
-
-## Связанные команды
-
-- `ls -l` — посмотреть дату изменения файла
-- `stat` — подробная информация о файле
-- `mkdir` — создать каталог
-- `rm` — удалить файл
