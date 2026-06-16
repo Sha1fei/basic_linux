@@ -20,4 +20,5 @@
 - [type](files_and_directories/type.md) — проверка типа команды
 - [whereis](files_and_directories/whereis.md) — поиск программы и man-страницы
 - [who](files_and_directories/who.md) — кто вошёл в систему
+- [man](files_and_directories/man.md) — справочные страницы команд
 
