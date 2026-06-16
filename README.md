@@ -17,4 +17,5 @@
 - [rm](files_and_directories/rm.md) — удаление файлов и каталогов (`rm`, `rmdir`)
 - [cp](files_and_directories/cp.md) — копирование файлов и каталогов
 - [mv](files_and_directories/mv.md) — перемещение и переименование
+- [type](files_and_directories/type.md) — проверка типа команды
 
