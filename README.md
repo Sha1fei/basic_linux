@@ -15,4 +15,5 @@
 - [mkdir](files_and_directories/mkdir.md) — создание каталогов
 - [cd](files_and_directories/cd.md) — переход между каталогами
 - [rm](files_and_directories/rm.md) — удаление файлов и каталогов (`rm`, `rmdir`)
+- [cp](files_and_directories/cp.md) — копирование файлов и каталогов
 
