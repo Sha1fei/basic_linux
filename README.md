@@ -24,4 +24,8 @@
 ### Пользователь
 
 - [who](user/who.md) — кто вошёл в систему
+- [whoami](user/whoami.md) — имя текущего пользователя
+- [id](user/id.md) — uid, gid и группы
+- [/etc/passwd](user/passwd.md) — список пользователей системы
+- [/etc/shadow](user/shadow.md) — хэши паролей и сроки действия
 
