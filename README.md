@@ -28,4 +28,5 @@
 - [id](user/id.md) — uid, gid и группы
 - [/etc/passwd](user/passwd.md) — список пользователей системы
 - [/etc/shadow](user/shadow.md) — хэши паролей и сроки действия
+- [/etc/group](user/group.md) — список групп и участников
 

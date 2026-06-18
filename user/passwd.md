@@ -79,4 +79,5 @@ cat /etc/shadow
 ## Связанные команды и файлы
 
 - [/etc/shadow](shadow.md) — хэши паролей
+- [/etc/group](group.md) — список групп
 - `id` — uid и группы текущего пользователя
