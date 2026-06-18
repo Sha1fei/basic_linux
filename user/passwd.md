@@ -76,8 +76,3 @@ cat /etc/shadow
 # Permission denied   (если вы не root)
 ```
 
-## Связанные команды и файлы
-
-- [/etc/shadow](shadow.md) — хэши паролей
-- [/etc/group](group.md) — список групп
-- `id` — uid и группы текущего пользователя

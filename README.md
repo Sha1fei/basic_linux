@@ -29,4 +29,6 @@
 - [/etc/passwd](user/passwd.md) — список пользователей системы
 - [/etc/shadow](user/shadow.md) — хэши паролей и сроки действия
 - [/etc/group](user/group.md) — список групп и участников
+- [useradd](user/useradd.md) — создание пользователей
+- [usermod](user/usermod.md) — изменение пользователя и групп
 
