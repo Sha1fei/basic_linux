@@ -15,12 +15,13 @@
 - [ls](files_and_directories/ls.md) — просмотр содержимого каталогов
 - [cd](files_and_directories/cd.md) — переход между каталогами
 
-### Просмотр содержимого
+### Просмотр и поиск в содержимом
 
 - [head](files_and_directories/head.md) — первые строки файла
 - [tail](files_and_directories/tail.md) — последние строки файла
 - [more](files_and_directories/more.md) — постраничный просмотр (вперёд)
 - [less](files_and_directories/less.md) — постраничный просмотр (вперёд и назад)
+- [grep](files_and_directories/grep.md) — поиск строк в файлах
 
 ### Создание и изменение
 
@@ -34,10 +35,6 @@
 ### Информация о файлах и диске
 
 - [df и stat](files_and_directories/df_stat.md) — место на диске и метаданные файлов
-
-### Поиск в содержимом
-
-- [grep](files_and_directories/grep.md) — поиск строк в файлах
 
 ### Справка и поиск команд
 
