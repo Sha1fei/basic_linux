@@ -20,6 +20,7 @@
 - [type](files_and_directories/type.md) — проверка типа команды
 - [whereis](files_and_directories/whereis.md) — поиск программы и man-страницы
 - [man](files_and_directories/man.md) — справочные страницы команд
+- [df и stat](files_and_directories/df_stat.md) — место на диске и метаданные файлов
 
 ### Пользователь
 
