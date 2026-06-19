@@ -28,6 +28,10 @@
 
 - [df и stat](files_and_directories/df_stat.md) — место на диске и метаданные файлов
 
+### Поиск в содержимом
+
+- [grep](files_and_directories/grep.md) — поиск строк в файлах
+
 ### Справка и поиск команд
 
 - [man](files_and_directories/man.md) — справочные страницы команд
