@@ -21,6 +21,7 @@
 - [mkdir](files_and_directories/mkdir.md) — создание каталогов
 - [cp](files_and_directories/cp.md) — копирование файлов и каталогов
 - [mv](files_and_directories/mv.md) — перемещение и переименование
+- [ln](files_and_directories/ln.md) — жёсткие и символические ссылки
 - [rm](files_and_directories/rm.md) — удаление файлов и каталогов (`rm`, `rmdir`)
 
 ### Информация о файлах и диске
