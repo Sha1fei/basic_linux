@@ -15,6 +15,13 @@
 - [ls](files_and_directories/ls.md) — просмотр содержимого каталогов
 - [cd](files_and_directories/cd.md) — переход между каталогами
 
+### Просмотр содержимого
+
+- [head](files_and_directories/head.md) — первые строки файла
+- [tail](files_and_directories/tail.md) — последние строки файла
+- [more](files_and_directories/more.md) — постраничный просмотр (вперёд)
+- [less](files_and_directories/less.md) — постраничный просмотр (вперёд и назад)
+
 ### Создание и изменение
 
 - [touch](files_and_directories/touch.md) — создание файлов и обновление времени
